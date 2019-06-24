@@ -1,0 +1,1 @@
+var x = "master  piece";
